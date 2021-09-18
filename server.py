@@ -29,7 +29,7 @@ def pricePrediction():
     datee = 0
     price_date = {
         "01": {
-            # carrotRetail price
+            # carrotRetail pricee
             "Retail": 1,
             "Vegitable": 1,
             "vals": [233.08600482011752, -21.0401426, 1004.87174, -0.777730696]
