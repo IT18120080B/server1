@@ -29,7 +29,7 @@ def pricePrediction():
     datee = 0
     price_date = {
         "01": {
-            # carrotRetail pricee
+            # carrotRetail price
             "Retail": 1,
             "Vegitable": 1,
             "vals": [233.08600482011752, -21.0401426, 1004.87174, -0.777730696]
@@ -208,4 +208,4 @@ def Insectidentification():
 
 
 if __name__ == '__main__':
-    app.run(debug=False,host='0.0.0.0')
+    app.run(debug=True)
